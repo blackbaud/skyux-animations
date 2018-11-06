@@ -27,7 +27,7 @@ export const skyAnimationSlide = trigger('skyAnimationSlide', [
   )
 ]) as AnimationEntryMetadata;
 
-export const skyAnimationSlideNoPaddingOrMargin = trigger('skyAnimationSlideNoPaddingOrMargin', [
+export const skyAnimationSlideNoTrim = trigger('skyAnimationSlideNoTrim', [
   state('down', style({
     overflow: 'visible',
     height: '*',
