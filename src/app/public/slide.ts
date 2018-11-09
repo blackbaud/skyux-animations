@@ -12,6 +12,7 @@ import {
 } from '@angular/animations';
 // #endregion
 
+// This animation slides an element's veritcal height to 0 and back (but preserves margin and padding)
 export const skyAnimationSlide = trigger('skyAnimationSlide', [
   state('down', style({
     overflow: 'visible',
@@ -27,6 +28,7 @@ export const skyAnimationSlide = trigger('skyAnimationSlide', [
   )
 ]) as AnimationEntryMetadata;
 
+// This animation slides an element's veritcal height to 0 and back including margin and padding
 export const skyAnimationSlideNoTrim = trigger('skyAnimationSlideNoTrim', [
   state('down', style({
     overflow: 'visible',
