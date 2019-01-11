@@ -1,6 +1,6 @@
 {
   "name": "@skyux/animations",
-  "version": "3.0.0-rc.1",
+  "version": "3.0.0",
   "description": "SKY UX Animations",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
@@ -28,8 +28,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@blackbaud/skyux": "2.30.0",
-    "@blackbaud/skyux-builder": "1.29.0",
+    "@blackbaud/skyux": "2.38.0",
+    "@blackbaud/skyux-builder": "1.30.0",
     "@skyux-sdk/builder-plugin-skyux": "1.0.0-rc.5"
   }
 }
