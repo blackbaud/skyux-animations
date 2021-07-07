@@ -1,3 +1,8 @@
+# 5.0.0-beta.0 (2021-06-28)
+
+- Initial beta release.
+- Added support for `@angular/core@^12`. [#22](https://github.com/blackbaud/skyux-animations/pull/22)
+
 # 4.0.1 (2020-08-05)
 
 - Added support for `@skyux/theme@4.8.0` and `@skyux-sdk/builder@4.3.0`. [#21](https://github.com/blackbaud/skyux-animations/pull/21)
