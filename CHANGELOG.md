@@ -1,3 +1,7 @@
+# 5.0.0-beta.1 (2021-08-26)
+
+- Migrated to Angular CLI. [#23](https://github.com/blackbaud/skyux-animations/pull/23)
+
 # 5.0.0-beta.0 (2021-07-07)
 
 - Initial beta release.
