@@ -1,3 +1,7 @@
+# 5.0.0-beta.2 (2021-09-02)
+
+- Enabled Ivy's "partial" compilation mode. [#25](https://github.com/blackbaud/skyux-animations/pull/25)
+
 # 5.0.0-beta.1 (2021-08-26)
 
 - Migrated to Angular CLI. [#23](https://github.com/blackbaud/skyux-animations/pull/23)
