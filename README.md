@@ -1,3 +1,7 @@
-# @skyux/animations Workspace
+# @skyux/animations (moved)
 
-For information about `@skyux/animations` please visit the library's README file, located at `projects/animations/README.md`.
+### *The source code for `@skyux/animations` has moved to [blackbaud/skyux](https://github.com/blackbaud/skyux).*
+
+To work with the latest version of `@skyux/animations`, go to [blackbaud/skyux](https://github.com/blackbaud/skyux).
+
+The source code for SKY UX 4 remains in the [`4.x.x`](https://github.com/blackbaud/skyux-animations/tree/4.x.x) branch of this repo.
